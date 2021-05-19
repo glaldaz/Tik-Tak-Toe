@@ -1,14 +1,14 @@
 # Tik-Tak-Toe
 
-##Description
+## Description
 
 This is a Tik Tac Toe game implemented in React. The game keeps track of who's turn it is and places the correct mark (X or O) accordingly in the clicked box. It will then ckeck to see if either player has won.
 
-##How To Run
+## How To Run
 
 Run the standalone.html
 
-##Future Improvements
+## Future Improvements
 
 - Make the background colors match the mark, so X will have one color and O will have another color.
 - Make the buttons more applicable to the game.
@@ -16,7 +16,7 @@ Run the standalone.html
 - Make it so that squares cannot be clicked after the game is won.
 - Implement AI to play against
 
-##License
+## License
 
 Copyright (c) 2021 Guillermo Aldaz
 
